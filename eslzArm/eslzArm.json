@@ -278,8 +278,8 @@
             }
         },
         "ambaAgServiceHook": {
-            "type": "string",
-            "defaultValue": "",
+            "type": "array",
+            "defaultValue": [],
             "metadata": {
                 "description": "Service Hook URI for action group notifications."
             }
